@@ -1,4 +1,4 @@
-def my_hash(your_hash)
+def my_hash
   your_hash = {"name" => "Mitzi"}
 end
 
